@@ -7,6 +7,10 @@ h1{
 
 .header{
     color: #f7325e;
-    font-family: fantasy;
-    
+    font-family: fantasy;  
+}
+
+.tropical{
+    color: #7dc410;
+    font-family: monospace;
 }
